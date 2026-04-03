@@ -1,10 +1,5 @@
 ## Hi there 👋 🐕
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,spring,php,laravel,html,css,javascript,typescript,aws&perline=6" alt="Kotlin, Spring Boot, PHP, Laravel, HTML, CSS, JavaScript, TypeScript, AWS" />
-</p>
-
-
 ```kotlin
 data class KoshiFutami(
     val name: String,
@@ -29,6 +24,12 @@ val me = KoshiFutami(
     ),
 )
 ```
+
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f6e0.png" width="22" height="22" alt="🛠️" /> Skills & tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,spring,php,laravel,html,css,javascript,typescript,aws&perline=10" alt="Kotlin, Spring Boot, PHP, Laravel, HTML, CSS, JavaScript, TypeScript, AWS" />
+</p>
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bc.png" width="22" height="22" alt="💼" /> Previous work experience
 
