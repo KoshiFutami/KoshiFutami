@@ -34,7 +34,7 @@ val me = KoshiFutami(
 
 - **teamLab, Inc.** 🎨 — Web services & web application development (Apr 2022 – present)
 - **GoA Inc.** 🌐 — Web production, WordPress (Sep 2019 – Mar 2022)
-- **Miyazaki Prefectural Takanaabe High School** 🏫 — English teacher (Apr 2016 – Mar 2019)
+- **Miyazaki Prefectural Takanabe High School** 🏫 — English teacher (Apr 2016 – Mar 2019)
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f393.png" width="22" height="22" alt="🎓" /> Education
 
