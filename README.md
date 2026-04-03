@@ -33,13 +33,24 @@ val me = KoshiFutami(
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bc.png" width="22" height="22" alt="💼" /> Previous work experience
 
-- **teamLab, Inc.** 🎨 — Web services & web application development (Apr 2022 – present)  
-  Work spans several products: a **ticket reservation** site, a **rental housing search** platform with **online lease / contract** flows, and a **keirin** (Japanese track cycling) **betting app** — from backend to delivery alongside the team.
+#### teamLab, Inc. 🎨
 
-- **GoA Inc.** 🌐 — Web production & WordPress (Sep 2019 – Mar 2022)  
-  Built a **garage house** search site (properties with **integrated garage / parking**), plus broader corporate sites on **WordPress**.
+**Apr 2022 – present** · Web services & web application development
 
-- **Miyazaki Prefectural Takanabe High School** 🏫 — English teacher (Apr 2016 – Mar 2019)
+- **Ticket reservation** — end-to-end work on the booking site
+- **Rental housing** — search platform with **online lease / contract** flows
+- **Keirin betting app** — Japanese track cycling; **backend through release** with the team
+
+#### GoA Inc. 🌐
+
+**Sep 2019 – Mar 2022** · Web production & WordPress
+
+- **Garage house search** — listings for homes with **integrated garage / parking**; built on **WordPress**
+- **Corporate & campaign sites** — **WordPress**
+
+#### Miyazaki Prefectural Takanabe High School 🏫
+
+**Apr 2016 – Mar 2019** · High school **English** teacher
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f393.png" width="22" height="22" alt="🎓" /> Education
 
