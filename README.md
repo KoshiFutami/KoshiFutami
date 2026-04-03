@@ -1,7 +1,7 @@
 ## Hi there 👋 🐕
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kotlin,ts,js,html,css,docker,postgres,linux,github&perline=8" alt="AWS, Kotlin, TypeScript, JavaScript, HTML, CSS, Docker, Postgres, Linux, GitHub" />
+  <img src="https://skillicons.dev/icons?i=kotlin,spring,php,laravel,html,css,javascript,typescript,aws&perline=6" alt="Kotlin, Spring Boot, PHP, Laravel, HTML, CSS, JavaScript, TypeScript, AWS" />
 </p>
 
 
